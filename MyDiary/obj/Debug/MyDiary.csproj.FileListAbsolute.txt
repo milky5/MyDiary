@@ -1,0 +1,11 @@
+C:\Users\Anju\Desktop\MyDiary\MyDiary\bin\Debug\MyDiary.exe.config
+C:\Users\Anju\Desktop\MyDiary\MyDiary\bin\Debug\MyDiary.exe
+C:\Users\Anju\Desktop\MyDiary\MyDiary\bin\Debug\MyDiary.pdb
+C:\Users\Anju\Desktop\MyDiary\MyDiary\obj\Debug\MyDiary.Form1.resources
+C:\Users\Anju\Desktop\MyDiary\MyDiary\obj\Debug\MyDiary.Properties.Resources.resources
+C:\Users\Anju\Desktop\MyDiary\MyDiary\obj\Debug\MyDiary.csproj.GenerateResource.cache
+C:\Users\Anju\Desktop\MyDiary\MyDiary\obj\Debug\MyDiary.csproj.CoreCompileInputs.cache
+C:\Users\Anju\Desktop\MyDiary\MyDiary\obj\Debug\MyDiary.exe
+C:\Users\Anju\Desktop\MyDiary\MyDiary\obj\Debug\MyDiary.pdb
+C:\Users\Anju\Desktop\MyDiary\MyDiary\obj\Debug\MyDiary.Form2.resources
+C:\Users\Anju\Desktop\MyDiary\MyDiary\obj\Debug\MyDiary.csprojAssemblyReference.cache

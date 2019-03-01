@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="diaryDataTable" msprop:Generator_TableClassName="diaryDataTableDataTable" msprop:Generator_TableVarName="tablediaryDataTable" msprop:Generator_TablePropName="diaryDataTable" msprop:Generator_RowDeletingName="diaryDataTableRowDeleting" msprop:Generator_RowChangingName="diaryDataTableRowChanging" msprop:Generator_RowEvHandlerName="diaryDataTableRowChangeEventHandler" msprop:Generator_RowDeletedName="diaryDataTableRowDeleted" msprop:Generator_UserTableName="diaryDataTable" msprop:Generator_RowChangedName="diaryDataTableRowChanged" msprop:Generator_RowEvArgName="diaryDataTableRowChangeEvent" msprop:Generator_RowClassName="diaryDataTableRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="日付" msprop:Generator_ColumnVarNameInTable="column日付" msprop:Generator_ColumnPropNameInRow="日付" msprop:Generator_ColumnPropNameInTable="日付Column" msprop:Generator_UserColumnName="日付" type="xs:string" />
+              <xs:element name="日記" msprop:Generator_ColumnVarNameInTable="column日記" msprop:Generator_ColumnPropNameInRow="日記" msprop:Generator_ColumnPropNameInTable="日記Column" msprop:Generator_UserColumnName="日記" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="moneyDataTable" msprop:Generator_TableClassName="moneyDataTableDataTable" msprop:Generator_TableVarName="tablemoneyDataTable" msprop:Generator_TablePropName="moneyDataTable" msprop:Generator_RowDeletingName="moneyDataTableRowDeleting" msprop:Generator_RowChangingName="moneyDataTableRowChanging" msprop:Generator_RowEvHandlerName="moneyDataTableRowChangeEventHandler" msprop:Generator_RowDeletedName="moneyDataTableRowDeleted" msprop:Generator_UserTableName="moneyDataTable" msprop:Generator_RowChangedName="moneyDataTableRowChanged" msprop:Generator_RowEvArgName="moneyDataTableRowChangeEvent" msprop:Generator_RowClassName="moneyDataTableRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="日付" msprop:Generator_ColumnVarNameInTable="column日付" msprop:Generator_ColumnPropNameInRow="日付" msprop:Generator_ColumnPropNameInTable="日付Column" msprop:Generator_UserColumnName="日付" type="xs:string" minOccurs="0" />
+              <xs:element name="用途" msprop:Generator_ColumnVarNameInTable="column用途" msprop:Generator_ColumnPropNameInRow="用途" msprop:Generator_ColumnPropNameInTable="用途Column" msprop:Generator_UserColumnName="用途" type="xs:string" minOccurs="0" />
+              <xs:element name="金額" msprop:Generator_ColumnVarNameInTable="column金額" msprop:Generator_ColumnPropNameInRow="金額" msprop:Generator_ColumnPropNameInTable="金額Column" msprop:Generator_UserColumnName="金額" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="monthMoneyDataTable" msprop:Generator_TableClassName="monthMoneyDataTableDataTable" msprop:Generator_TableVarName="tablemonthMoneyDataTable" msprop:Generator_RowChangedName="monthMoneyDataTableRowChanged" msprop:Generator_TablePropName="monthMoneyDataTable" msprop:Generator_RowDeletingName="monthMoneyDataTableRowDeleting" msprop:Generator_RowChangingName="monthMoneyDataTableRowChanging" msprop:Generator_RowEvHandlerName="monthMoneyDataTableRowChangeEventHandler" msprop:Generator_RowDeletedName="monthMoneyDataTableRowDeleted" msprop:Generator_RowClassName="monthMoneyDataTableRow" msprop:Generator_UserTableName="monthMoneyDataTable" msprop:Generator_RowEvArgName="monthMoneyDataTableRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="日付" msprop:Generator_ColumnVarNameInTable="column日付" msprop:Generator_ColumnPropNameInRow="日付" msprop:Generator_ColumnPropNameInTable="日付Column" msprop:Generator_UserColumnName="日付" type="xs:string" minOccurs="0" />
+              <xs:element name="用途" msprop:Generator_ColumnVarNameInTable="column用途" msprop:Generator_ColumnPropNameInRow="用途" msprop:Generator_ColumnPropNameInTable="用途Column" msprop:Generator_UserColumnName="用途" type="xs:string" minOccurs="0" />
+              <xs:element name="金額" msprop:Generator_ColumnVarNameInTable="column金額" msprop:Generator_ColumnPropNameInRow="金額" msprop:Generator_ColumnPropNameInTable="金額Column" msprop:Generator_UserColumnName="金額" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="monthDiaryDataTable" msprop:Generator_TableClassName="monthDiaryDataTableDataTable" msprop:Generator_TableVarName="tablemonthDiaryDataTable" msprop:Generator_RowChangedName="monthDiaryDataTableRowChanged" msprop:Generator_TablePropName="monthDiaryDataTable" msprop:Generator_RowDeletingName="monthDiaryDataTableRowDeleting" msprop:Generator_RowChangingName="monthDiaryDataTableRowChanging" msprop:Generator_RowEvHandlerName="monthDiaryDataTableRowChangeEventHandler" msprop:Generator_RowDeletedName="monthDiaryDataTableRowDeleted" msprop:Generator_RowClassName="monthDiaryDataTableRow" msprop:Generator_UserTableName="monthDiaryDataTable" msprop:Generator_RowEvArgName="monthDiaryDataTableRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="日付" msprop:Generator_ColumnVarNameInTable="column日付" msprop:Generator_ColumnPropNameInRow="日付" msprop:Generator_ColumnPropNameInTable="日付Column" msprop:Generator_UserColumnName="日付" type="xs:string" minOccurs="0" />
+              <xs:element name="日記" msprop:Generator_ColumnVarNameInTable="column日記" msprop:Generator_ColumnPropNameInRow="日記" msprop:Generator_ColumnPropNameInTable="日記Column" msprop:Generator_UserColumnName="日記" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="dayMoneyDataTable" msprop:Generator_TableClassName="dayMoneyDataTableDataTable" msprop:Generator_TableVarName="tabledayMoneyDataTable" msprop:Generator_TablePropName="dayMoneyDataTable" msprop:Generator_RowDeletingName="dayMoneyDataTableRowDeleting" msprop:Generator_RowChangingName="dayMoneyDataTableRowChanging" msprop:Generator_RowEvHandlerName="dayMoneyDataTableRowChangeEventHandler" msprop:Generator_RowDeletedName="dayMoneyDataTableRowDeleted" msprop:Generator_UserTableName="dayMoneyDataTable" msprop:Generator_RowChangedName="dayMoneyDataTableRowChanged" msprop:Generator_RowEvArgName="dayMoneyDataTableRowChangeEvent" msprop:Generator_RowClassName="dayMoneyDataTableRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="日付" msprop:Generator_ColumnVarNameInTable="column日付" msprop:Generator_ColumnPropNameInRow="日付" msprop:Generator_ColumnPropNameInTable="日付Column" msprop:Generator_UserColumnName="日付" type="xs:string" minOccurs="0" />
+              <xs:element name="用途" msprop:Generator_ColumnVarNameInTable="column用途" msprop:Generator_ColumnPropNameInRow="用途" msprop:Generator_ColumnPropNameInTable="用途Column" msprop:Generator_UserColumnName="用途" type="xs:string" minOccurs="0" />
+              <xs:element name="金額" msprop:Generator_ColumnVarNameInTable="column金額" msprop:Generator_ColumnPropNameInRow="金額" msprop:Generator_ColumnPropNameInTable="金額Column" msprop:Generator_UserColumnName="金額" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:diaryDataTable" />
+      <xs:field xpath="mstns:日付" />
+    </xs:unique>
+    <xs:unique name="monthDiaryDataTable_Constraint1" msdata:ConstraintName="Constraint1">
+      <xs:selector xpath=".//mstns:monthDiaryDataTable" />
+      <xs:field xpath="mstns:日付" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

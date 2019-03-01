@@ -1,0 +1,27 @@
+﻿●monthCalendar
+　・選択できる最大日数は1。(複数選択できない)
+　・DateChangedイベントは、選択した日付が変更したときに発生。MouseDownと似ている。
+　　DateSelectedイベントは、選択した日付の範囲が選択されたときに発生。MouseUpと似ている。
+　　複数選択(範囲選択)できない仕様にしているため、DateChangedイベントを使用する。
+
+DataGridViewの列の幅の変え方
+dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+dataGridView1.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells;
+
+月単位で表示物が変わるようにする
+削除するときはダイアログを表示
+
+
+
+家計簿追加すると、
+月・日・全データ　全てに表示される
+日付を動かすと全て表示が消える
+xmlには一応残ってる
+→全ての家計簿データが入ったMasterTableからデータを抜き出した後、MasterTable消してた。
+　MasterTableからデータを抜き出した後、月・日のTableを消して、月・日のTableに追加するよう修正。
+
+
+月のラベルの○月を反映されるように。
+ToolStripのイベントハンドラの中身を書く。
+使い方ガイドを作る。
+ラベルの背景色を一気に変えられるようにする。→できればユーザに色を指定させる
