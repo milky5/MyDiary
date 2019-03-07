@@ -114,6 +114,7 @@
             this.diaryEditTextBox.Name = "diaryEditTextBox";
             this.diaryEditTextBox.Size = new System.Drawing.Size(252, 183);
             this.diaryEditTextBox.TabIndex = 3;
+            this.diaryEditTextBox.Tag = "cutable";
             this.diaryEditTextBox.TextChanged += new System.EventHandler(this.OnDiaryEditTextChangerd);
             // 
             // label1
@@ -162,6 +163,7 @@
             this.itemTextBox.Name = "itemTextBox";
             this.itemTextBox.Size = new System.Drawing.Size(101, 19);
             this.itemTextBox.TabIndex = 8;
+            this.itemTextBox.Tag = "cutable";
             this.itemTextBox.TextChanged += new System.EventHandler(this.OnItemTextChanged);
             // 
             // label2
@@ -208,6 +210,7 @@
             this.itemPriceTextBox.Name = "itemPriceTextBox";
             this.itemPriceTextBox.Size = new System.Drawing.Size(107, 19);
             this.itemPriceTextBox.TabIndex = 9;
+            this.itemPriceTextBox.Tag = "cutable";
             this.itemPriceTextBox.ValidatingType = typeof(int);
             this.itemPriceTextBox.TextChanged += new System.EventHandler(this.OnItemPriceTextChanged);
             // 

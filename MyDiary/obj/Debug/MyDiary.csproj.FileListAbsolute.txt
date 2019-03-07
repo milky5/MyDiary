@@ -9,3 +9,25 @@ C:\Users\Anju\Desktop\MyDiary\MyDiary\obj\Debug\MyDiary.exe
 C:\Users\Anju\Desktop\MyDiary\MyDiary\obj\Debug\MyDiary.pdb
 C:\Users\Anju\Desktop\MyDiary\MyDiary\obj\Debug\MyDiary.Form2.resources
 C:\Users\Anju\Desktop\MyDiary\MyDiary\obj\Debug\MyDiary.csprojAssemblyReference.cache
+G:\★ゲームプログラマー養成科資料\git mydiary\MyDiary\bin\Debug\MyDiary.exe.config
+G:\★ゲームプログラマー養成科資料\git mydiary\MyDiary\bin\Debug\MyDiary.exe
+G:\★ゲームプログラマー養成科資料\git mydiary\MyDiary\bin\Debug\MyDiary.pdb
+G:\★ゲームプログラマー養成科資料\git mydiary\MyDiary\obj\Debug\MyDiary.csprojAssemblyReference.cache
+G:\★ゲームプログラマー養成科資料\git mydiary\MyDiary\obj\Debug\MyDiary.Form1.resources
+G:\★ゲームプログラマー養成科資料\git mydiary\MyDiary\obj\Debug\MyDiary.Form2.resources
+G:\★ゲームプログラマー養成科資料\git mydiary\MyDiary\obj\Debug\MyDiary.Properties.Resources.resources
+G:\★ゲームプログラマー養成科資料\git mydiary\MyDiary\obj\Debug\MyDiary.csproj.GenerateResource.cache
+G:\★ゲームプログラマー養成科資料\git mydiary\MyDiary\obj\Debug\MyDiary.csproj.CoreCompileInputs.cache
+G:\★ゲームプログラマー養成科資料\git mydiary\MyDiary\obj\Debug\MyDiary.exe
+G:\★ゲームプログラマー養成科資料\git mydiary\MyDiary\obj\Debug\MyDiary.pdb
+E:\★ゲームプログラマー養成科資料\git mydiary\MyDiary\bin\Debug\MyDiary.exe.config
+E:\★ゲームプログラマー養成科資料\git mydiary\MyDiary\bin\Debug\MyDiary.exe
+E:\★ゲームプログラマー養成科資料\git mydiary\MyDiary\bin\Debug\MyDiary.pdb
+E:\★ゲームプログラマー養成科資料\git mydiary\MyDiary\obj\Debug\MyDiary.csprojAssemblyReference.cache
+E:\★ゲームプログラマー養成科資料\git mydiary\MyDiary\obj\Debug\MyDiary.Form1.resources
+E:\★ゲームプログラマー養成科資料\git mydiary\MyDiary\obj\Debug\MyDiary.Form2.resources
+E:\★ゲームプログラマー養成科資料\git mydiary\MyDiary\obj\Debug\MyDiary.Properties.Resources.resources
+E:\★ゲームプログラマー養成科資料\git mydiary\MyDiary\obj\Debug\MyDiary.csproj.GenerateResource.cache
+E:\★ゲームプログラマー養成科資料\git mydiary\MyDiary\obj\Debug\MyDiary.csproj.CoreCompileInputs.cache
+E:\★ゲームプログラマー養成科資料\git mydiary\MyDiary\obj\Debug\MyDiary.exe
+E:\★ゲームプログラマー養成科資料\git mydiary\MyDiary\obj\Debug\MyDiary.pdb

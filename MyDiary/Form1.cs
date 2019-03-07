@@ -9,6 +9,10 @@ namespace MyDiary
     {
         Form1Service f1service = new Form1Service();
 
+
+        TextBox active = null;
+        string selecting;
+
         public Form1()
         {
             InitializeComponent();
@@ -119,17 +123,29 @@ namespace MyDiary
 
         private void 切り取りTToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            if (ActiveControl is TextBox)
+            {
+                active = ActiveControl as TextBox;
+            }
+            active.Cut();
         }
 
         private void コピーCToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            if (ActiveControl is TextBox)
+            {
+                active = ActiveControl as TextBox;
+            }
+            active.Copy();
         }
 
         private void 貼り付けPToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            if (ActiveControl is TextBox)
+            {
+                active = ActiveControl as TextBox;
+            }
+            active.Paste();
         }
 
         private void オプションOToolStripMenuItem_Click(object sender, EventArgs e)
