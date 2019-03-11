@@ -111,16 +111,6 @@ namespace MyDiary
             form2.Show();
         }
 
-        private void 元に戻すUToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void やり直しRToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void 切り取りTToolStripMenuItem_Click(object sender, EventArgs e)
         {
             if (ActiveControl is TextBox)
@@ -150,12 +140,29 @@ namespace MyDiary
 
         private void オプションOToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            Form4 form4 = new Form4(this);
+            form4.Show();
         }
 
         private void 使い方SToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            Form3 form3 = new Form3();
+            form3.Show();
+        }
 
+        void ChangeColor()
+        {
+            //pictureBox1.BackColor;
+            //label1.BackColor;
+            //label2.BackColor;
+            //label3.BackColor;
+            //label4.BackColor;
+            //label5.BackColor;
+            //label6.BackColor;
+
+            //pictureBox2.BackColor;
+            //label7.BackColor;
+            //label8.BackColor;
         }
     }
 }

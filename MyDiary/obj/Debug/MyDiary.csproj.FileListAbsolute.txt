@@ -31,3 +31,5 @@ E:\★ゲームプログラマー養成科資料\git mydiary\MyDiary\obj\Debug\M
 E:\★ゲームプログラマー養成科資料\git mydiary\MyDiary\obj\Debug\MyDiary.csproj.CoreCompileInputs.cache
 E:\★ゲームプログラマー養成科資料\git mydiary\MyDiary\obj\Debug\MyDiary.exe
 E:\★ゲームプログラマー養成科資料\git mydiary\MyDiary\obj\Debug\MyDiary.pdb
+G:\★ゲームプログラマー養成科資料\git mydiary\MyDiary\obj\Debug\MyDiary.Form3.resources
+G:\★ゲームプログラマー養成科資料\git mydiary\MyDiary\obj\Debug\MyDiary.Form4.resources
